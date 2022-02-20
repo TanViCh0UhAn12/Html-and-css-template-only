@@ -5,4 +5,5 @@
 <------ Here's the Interface ------>
 
 
-[Interface](https://user-images.githubusercontent.com/96679594/154855629-a0a2c015-77cf-4d26-8d75-6dd7a5aa89fe.png)
+![Interface](https://user-images.githubusercontent.com/96679594/154855690-01748fa5-22f8-4dd8-837a-c6b869f783f9.png)
+
