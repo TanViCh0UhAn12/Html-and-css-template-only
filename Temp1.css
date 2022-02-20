@@ -1,0 +1,77 @@
+#D{ 
+    padding-left: 200px;
+    padding-right: 200px;
+    border: 400px;
+    border-color: black;
+    text-align:center;
+    padding-top: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body
+     {
+    background-image: linear-gradient(blueviolet,rgba(84, 84, 231, 0.829),rgba(137, 88, 216, 0.89));
+    width: 100%;
+    color: white; 
+} 
+input.mail{
+      border-radius: 30px;
+      font-size: 15px;
+      text-indent: 20px;
+      padding: 0 20px;
+      width: 400px;
+  }
+input.mail,input.mail::-webkit-input-placeholder {
+  font-size: 15px;
+   line-height: 3;
+   background-color: rgba(101, 29, 168, 0.959);
+   color: white;
+        }
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: center
+    }
+    img {
+     max-width: 100%;
+     padding-top: 50px;
+       }
+ .image {
+   flex-basis: 5%
+      }
+.text {
+ font-size: 15px;
+ padding-left: 25px;
+color: white;
+padding-top: 50px;
+    }
+   
+    div.remember{
+        text-align:center; vertical-align: middle;
+        padding-top: 20px;
+        padding-right: 50px;
+        font-family:monospace;
+    }
+    .but{
+        display: flex;
+        align-items: center;
+        justify-content: center 
+    }
+    button.bt,button.bt::-webkit-input-button {
+        font-size: 15px;
+         line-height: 3;
+         background-color: rgba(101, 29, 168, 0.959);
+         color: white;
+              }
+
+    button.bt{
+      border-radius: 30px;
+      font-size: 15px;
+      text-indent: 20px;
+      padding: 0 20px;
+      width: 200px;
+      border-color: #e7e7e7;
+} 
+            .bt:hover {
+                background-color: #4820a7a8;
+                color: white;
+            }
